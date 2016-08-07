@@ -1,7 +1,7 @@
 name: Renowned
 favicon: null
-layout_spectrum: 0.16054123733192682
-typography_spectrum: 0.6350708771497011
+layout_spectrum: 1
+typography_spectrum: 0.87369
 cta:
   domain: null
   bucket: null
